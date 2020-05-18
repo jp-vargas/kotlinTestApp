@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHomeFragment"
+        android:title="Inicio"
+        android:icon="@drawable/ic_menu_home"
+        android:iconTint="@color/colorAccent"/>
+
+    <item
+        android:id="@+id/navScheduleFragment"
+        android:title="Cronograma"
+        android:icon="@drawable/ic_menu_schedule"
+        android:iconTint="@color/colorAccent"/>
+
+    <item
+        android:id="@+id/navSpeakersFragment"
+        android:title="Expositores"
+        android:icon="@drawable/ic_menu_speakers"
+        android:iconTint="@color/colorAccent"/>
+
+    <item
+        android:id="@+id/navLocationragment"
+        android:title="Ubicación"
+        android:icon="@drawable/ic_menu_map"
+        android:iconTint="@color/colorAccent"/>
+
+</menu>
